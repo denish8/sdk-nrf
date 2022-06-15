@@ -1,0 +1,4 @@
+sample:
+  description: Basic test sample, the simplest Zephyr
+    application
+  name: basic test
